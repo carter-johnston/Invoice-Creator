@@ -82,7 +82,6 @@ def CreateInvoice(tenant,electric):
 	</head>
 	<body>
 		<h1 id="rental-receipt">Rental Receipt</h1>
-		<p><strong>Address</strong>: 7990 Baymeadows Rd E, Unit #213, Jacksonville Fl</p>
 		<h2 id="landlord-information">Landlord Information</h2>
 		<ul>
 			<li>
